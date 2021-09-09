@@ -1,7 +1,7 @@
 # Financial Inclusion Project 
 
 # Introduction
-This is financial based project that entails investigating who exactky in East Africa has access to a bank accountand the factors that influence who owns a bank account, and who does not.
+This is financial based project that entails investigating who exactky in East Africa has access to a bank account and the factors that influence who owns a bank account, and who does not and the relationships & correlations between the factors.
 
 # Names of Contributors
 - Ryan Mburu
